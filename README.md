@@ -34,7 +34,7 @@ We welcome contributions! Here’s how you can get started:
 
 2. **Clone Your Fork**:  
 ```bash
-   git clone https://github.com/your-username/tailwind-motion.git
+   git clone https://github.com/abel-otegbola/awesome-ui.git
 ```
 
 3. **Create a Branch**:
